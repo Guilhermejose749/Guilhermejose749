@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Guilhermejose749
+- 👀 I’m interested in Nothing
+- 🌱 I’m currently learning python
+- 📫 How to reach me Email
+- ⚡ Fun fact: None
