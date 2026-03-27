@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Guilhermejose749
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning more about IA and Data Cience
 - 📫 How to reach me Email
-- ⚡ Fun fact: None
